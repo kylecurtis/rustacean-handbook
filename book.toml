@@ -1,0 +1,9 @@
+[book]
+authors = ["Kyle Curtis"]
+src = "src"
+title = "Rustacean Handbook"
+language = "en"
+multilingual = false
+
+[output.html]
+git-repository-url = "https://github.com/kylecurtis/rustacean-handbook/"
