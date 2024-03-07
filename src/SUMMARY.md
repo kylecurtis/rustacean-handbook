@@ -6,6 +6,6 @@
 
 # Introduction To Rust
 
-- [What is Rust?](./what.md)
+- [What is Rust?](./what-is-rust.md)
 - [Installing Rust](./install.md)
 
