@@ -13,3 +13,4 @@
 
 - [Integers](./integers.md)
 - [Floating Point Numbers](./floats.md)
+- [Booleans](./booleans.md)
