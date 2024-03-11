@@ -12,3 +12,4 @@
 # Data Types & Variables
 
 - [Integers](./integers.md)
+- [Floating Point Numbers](./floats.md)
