@@ -105,13 +105,13 @@ The `char` type in Rust provides several useful methods for working with charact
 Here are some examples of using character methods:
 
 ```rust
-let char_a = 'a';
-let char_b = 'B';
-let char_1 = '1';
+let char_a: char = 'a';
+let char_b: char = 'B';
+let char_1: char = '1';
 
 println!("Is 'a' alphabetic? {}", char_a.is_alphabetic()); // true
 println!("Is 'B' lowercase? {}", char_b.is_lowercase()); // false
-println!("Is '1' a digit? {}", char_1.is_digit()); // true
+println!("Is '1' a digit? {}", char_1.is_numeric()); // true
 
 let uppercase_a = char_a.to_uppercase().next().unwrap();
 println!("Uppercase 'a': {}", uppercase_a); // 'A'
