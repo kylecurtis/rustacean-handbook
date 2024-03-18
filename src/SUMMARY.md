@@ -19,3 +19,4 @@
 # Compound Types
 
 - [Arrays](./arrays.md)
+- [Tuples](./tuples.md)
