@@ -20,3 +20,4 @@
 
 - [Arrays](./arrays.md)
 - [Tuples](./tuples.md)
+- [Vectors](./vectors.md)
